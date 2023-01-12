@@ -6,6 +6,6 @@
 - 📫 How to reach me: isabella0312isa@gmail.com 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/isa0312">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isa0312&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
